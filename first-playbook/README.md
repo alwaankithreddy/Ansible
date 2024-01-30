@@ -1,1 +1,1 @@
-**It installs and starts NGNIX. **
+**It installs and starts NGNIX.**
